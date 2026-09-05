@@ -1,4 +1,4 @@
-ทดลองได้ที่นี่ -> https://kaydi770s2-cmyk.github.io/My-Interest-Website-with-Bootstrap-5/
+ทดลองได้ที่นี่ -> [https://kaydi770s2-cmyk.github.io/My-Interest-Website-with-Bootstrap-5/](https://kaydi770s2-cmyk.github.io/My-Interest-Website-with-Bootstrap-5/)
 
 การแยกไฟล์ Modular: เราทำการแยกไฟล์ออกเป็น 3 ส่วนชัดเจนคือ index.html, style.css และ script.js ซึ่งเป็นแนวทางปฏิบัติที่ดี (Best Practice) ทำให้เวลาทำ Git Commit หรือตรวจแก้ประวัติการแก้ไขโค้ด (Version Control) บน GitHub ทำได้ง่ายและไม่สับสนครับ
 
